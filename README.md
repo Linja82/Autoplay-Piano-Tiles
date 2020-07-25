@@ -2,7 +2,7 @@
 A Python script that plays piano tiles.
 
 ## Installation Instructions
-Necessary Libraries:  
+Necessary Libraries:
 - time  
 - keyboard  
 - win32gui  
