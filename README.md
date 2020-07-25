@@ -13,7 +13,7 @@ Download "Autoplay V5". Run the file.
 ## How It Works
 Step 1: Pyautogui takes a screenshot and stores it in memory. The image is then converted to RGB colour values.  
   
-Step 2: Win32gui is used to get the location information of the game window. Some calculations are performed to determin where each column of the game is. Based on where each column is a detect position is determined.  
+Step 2: Win32gui is used to get the location information of the game window. Some calculations are performed to determine where each column of the game is. Based on where each column is a detect position is determined.  
   
 Step 3: The RGB colour values are grabbed from the 4 detection pixels.  
   
