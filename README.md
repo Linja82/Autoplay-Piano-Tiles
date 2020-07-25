@@ -8,7 +8,7 @@ Necessary Libraries:
 - win32gui  
 - pyautogui  
 
-Download "Piano Tiles Autoplay V5". Run the file.
+Download "Autoplay V5". Run the file.
 
 ## Game
 Here's a link to the game:  
