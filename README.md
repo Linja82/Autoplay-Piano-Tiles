@@ -19,6 +19,9 @@ Step 3: The RGB colour values are grabbed from the 4 detection pixels.
   
 Step 4: An if block is used to determine where and when a click should take place. The RGB colour values are used to compare with a known range of colours.  
 
+## Screenshots
+<img src="https://github.com/Linja82/Autoplay-Piano-Tiles/blob/master/Images/Detection%20and%20Click%20Line.png" width="380"> 
+
 ## Game
 Here's a link to the game:  
 <a href="https://www.microsoft.com/en-ca/p/piano-tiles-wp/9nblggh4njz5?activetab=pivot:overviewtab">Piano Tiles WP</a>  
